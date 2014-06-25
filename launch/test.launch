@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="zumy_lcm" name="test_zumy" type="zumy_lcm.py"/>
+</launch>
